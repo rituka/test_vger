@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/vger"]
+	path = vendor/plugins/vger
+	url = git@github.com:yournextleap/vger.git
